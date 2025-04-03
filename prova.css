@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.header {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.divheader {
+    display: flex;
+    gap: 20px;
+    background-color: black;
+    color: white;
+    list-style: none;
+    padding: 2%;
+}
+
+
+
+.sessao1 {
+    padding: 20%;
+    background-image: url(imagens/backgrounds1.jpg);
+    color: black;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.textbox2 {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.textbox1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.botao {
+   background-color: rgba(128, 128, 128, 0.486);
+   padding: 15px;
+   border-radius: 35px;
+
+
+}
